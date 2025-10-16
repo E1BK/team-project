@@ -61,3 +61,4 @@ Team Member Signatures:
 
 Ioane Bekurishvili
 Mohammad Hasan Imran Malik
+Julian Sudac
