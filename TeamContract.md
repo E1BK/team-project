@@ -58,7 +58,8 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 
 Team Member Signatures:
 
-
-Ioane Bekurishvili
 Mohammad Hasan Imran Malik
-Julian Sudac
+Julian Sudac,
+Ioane Bekurishvili,
+Mohammad Hasan Imran Malik,
+Russell Gao,
