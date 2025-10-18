@@ -55,7 +55,6 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 
 Team Member Signatures:
 
-
 Ioane Bekurishvili,
 
 Mohammad Hasan Imran Malik,
@@ -66,4 +65,7 @@ Julian Sudac,
 
 Hayden HaoDong Zhao,
 
+Zuhao Yang
+
 Date: October 17th, 2025
+
